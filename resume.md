@@ -1,6 +1,6 @@
 # **DMYTRO SYCHOV** ![checkmark](/images/check.png)
 
-Telegram: [Mad_Pillow](https://t.me/Mad_Pillow) (primary contact) \| Mob: [+380508736005](tel:+380508736005) \| 
+Telegram: [Mad_Pillow](https://t.me/Mad_Pillow) (primary contact) \| Mob: +380508736005 \| 
 Email: [dmtr.schv@gmail.com](mailto:dmtr.schv@gmail.com) \| LinkedIn: [mad-pillow](http://www.linkedin.com/in/mad-pillow)
 
 ## **Professional Summary** ![checkmark](/images/check.png)
@@ -18,7 +18,7 @@ Able to fast and easy learning of new things. Have extreme passion for studying 
 ## **Skills** ![checkmark](/images/check.png)
 
 1. Soft skills
-   - `Active learnig`
+   - `Active learning`
    - `Ability to work in a team environment`
    - `Leadership`
    - `Creative problem solving`
@@ -60,5 +60,3 @@ I have not got any special programming education except short free online webina
 
 **B1 Upper Intermediate** level proved by **[IELTS](https://www.ielts.org/)** Report. Oral and written communication
 skills, along with superb reading comprehension. English practised wisely on the previous work places.
-
----
