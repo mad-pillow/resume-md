@@ -45,9 +45,7 @@ Able to fast and easy learning of new things. Have extreme passion for studying 
 
 ## **Coding experiene**
 
-...Pet-projects are here...
-
-1. Tic-Tac-Toe game. React, React Router, SASS.
+1. Tic-Tac-Toe game. React, React Router, SASS. [Link](https://mad-pillow.github.io/tic-tac-toe/)
 
 ## **Education**
 
