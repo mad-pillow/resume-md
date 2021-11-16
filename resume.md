@@ -47,6 +47,8 @@ Able to fast and easy learning of new things. Have extreme passion for studying 
 
 ...Pet-projects are here...
 
+1. Tic-Tac-Toe game. React, React Router, SASS.
+
 ## **Education**
 
 I have not got any special programming education except short free online webinars so far. Self learning is what I do for developing. As I stated above I had got the first place at the Mariupol city wide scientific and technical conference in 2001 in category "Programming" as a result of self learning (Delphi).
