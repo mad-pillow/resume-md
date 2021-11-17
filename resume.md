@@ -47,15 +47,16 @@ Able to fast and easy learning of new things. Have extreme passion for studying 
 
 1. Tic-Tac-Toe game. React App with React Router. HTML, React, React Router, SASS, WEBPACK. [Deploy](https://mad-pillow.github.io/tic-tac-toe/) / [Code](https://github.com/mad-pillow/tic-tac-toe/tree/development)
 2. Todo-list application. React App. React, HTML, CSS, WEBPACK. [Deploy](https://mad-pillow.github.io/todo-app/) / [Code](https://github.com/mad-pillow/todo-app/tree/development)
-3. Timestamper. Under construction. Application for adding timestamps to photos. HTML, SASS, Pure JS. [Deploy](https://mad-pillow.github.io/timestamper/) / [Code](https://github.com/mad-pillow/timestamper)
-4. My Solar System application. Under construction. HTML, CSS, Pure JS. [Deploy](https://mad-pillow.github.io/my_solar_system/) / [Code](https://github.com/mad-pillow/my_solar_system)
-5. Portfolio Sample. Adaptive landing page. HTML, SASS, Pure JS, GULP. [Deploy](https://mad-pillow.github.io/online-portfolio-sample/) / [Code](https://github.com/mad-pillow/online-portfolio-sample)
-6. Some simple landing page. Pure JS, HTML, CSS, GULP. [Deploy](https://mad-pillow.github.io/vestibulum/) / [Code](https://github.com/mad-pillow/vestibulum)
-7. Super-simple adaptive landing page with carousel and swiper. HTML, Pure JS, SASS. No external libraries. [Deploy](https://mad-pillow.github.io/wildlife/) / [Code](https://github.com/mad-pillow/wildlife)
-8. Virtual Piano application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/virtual-piano)
-9. Photo Filter application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/photo-filter)
-10. Online Zoo. Multi-page application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/online-zoo)
-11. Match-Match game. Single-page application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/match-match-game/#)
+3. JS-types-game. Game-test to assess your JS types awareness. Single page application. HTML, CSS, React, React Router. [Deploy](https://mad-pillow.github.io/JS-types-game/#/) / [Code](https://github.com/mad-pillow/JS-types-game)
+4. Timestamper. Under construction. Application for adding timestamps to photos. HTML, SASS, Pure JS. [Deploy](https://mad-pillow.github.io/timestamper/) / [Code](https://github.com/mad-pillow/timestamper)
+5. My Solar System application. Under construction. HTML, CSS, Pure JS. [Deploy](https://mad-pillow.github.io/my_solar_system/) / [Code](https://github.com/mad-pillow/my_solar_system)
+6. Portfolio Sample. Adaptive landing page. HTML, SASS, Pure JS, GULP. [Deploy](https://mad-pillow.github.io/online-portfolio-sample/) / [Code](https://github.com/mad-pillow/online-portfolio-sample)
+7. Some simple landing page. Pure JS, HTML, CSS, GULP. [Deploy](https://mad-pillow.github.io/vestibulum/) / [Code](https://github.com/mad-pillow/vestibulum)
+8. Super-simple adaptive landing page with carousel and swiper. HTML, Pure JS, SASS. No external libraries. [Deploy](https://mad-pillow.github.io/wildlife/) / [Code](https://github.com/mad-pillow/wildlife)
+9. Virtual Piano application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/virtual-piano)
+10. Photo Filter application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/photo-filter)
+11. Online Zoo. Multi-page application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/online-zoo)
+12. Match-Match game. Single-page application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/match-match-game/#)
 
 ## **Education**
 
