@@ -46,6 +46,7 @@ Able to fast and easy learning of new things. Have extreme passion for studying 
 ## **Coding experiene**
 
 1. Tic-Tac-Toe game. React, React Router, SASS. [Link](https://mad-pillow.github.io/tic-tac-toe/)
+2. Todo-list application. React. [Link](https://mad-pillow.github.io/todo-app/)
 
 ## **Education**
 
