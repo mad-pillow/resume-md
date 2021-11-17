@@ -1,6 +1,6 @@
 # **DMYTRO SYCHOV**
 
-Telegram: [Mad_Pillow](https://t.me/Mad_Pillow) (primary contact) \| Mob: +380508736005 \| Email: [dmtr.schv@gmail.com](mailto:dmtr.schv@gmail.com) \| LinkedIn: [mad-pillow](http://www.linkedin.com/in/mad-pillow)
+Telegram: [Mad_Pillow](https://t.me/Mad_Pillow) (primary contact) \| Mob: +380508736005 \| Email: [dmtr.schv@gmail.com](mailto:dmtr.schv@gmail.com) \| LinkedIn: [mad-pillow](http://www.linkedin.com/in/mad-pillow) \| GitHub: [mad-pillow](https://github.com/mad-pillow)
 
 ## **Professional Summary**
 
