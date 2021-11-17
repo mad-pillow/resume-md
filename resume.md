@@ -45,8 +45,9 @@ Able to fast and easy learning of new things. Have extreme passion for studying 
 
 ## **Coding experiene**
 
-1. Tic-Tac-Toe game. React, React Router, SASS. [Link](https://mad-pillow.github.io/tic-tac-toe/)
-2. Todo-list application. React. [Link](https://mad-pillow.github.io/todo-app/)
+1. Tic-Tac-Toe game. React App with React Router. HTML, React, React Router, SASS. [Deploy](https://mad-pillow.github.io/tic-tac-toe/) / [Code](https://github.com/mad-pillow/tic-tac-toe/tree/development)
+2. Todo-list application. React App. React. [Deploy](https://mad-pillow.github.io/todo-app/) / [Code](https://github.com/mad-pillow/todo-app/tree/development)
+3. Portfolio Sample. Adaptive landing page. HTML, SASS, Pure JS, GULP. [Deploy](https://mad-pillow.github.io/online-portfolio-sample/) / [Code](https://github.com/mad-pillow/online-portfolio-sample)
 
 ## **Education**
 
