@@ -1,6 +1,6 @@
 # **DMYTRO SYCHOV**
 
-Telegram: [Mad_Pillow](https://t.me/Mad_Pillow) (primary contact) \| Mob: +380508736005 \| Email: [dmtr.schv@gmail.com](mailto:dmtr.schv@gmail.com) \| LinkedIn: [mad-pillow](http://www.linkedin.com/in/mad-pillow) \| GitHub: [mad-pillow](https://github.com/mad-pillow)
+Telegram: [Mad_Pillow](https://t.me/Mad_Pillow) (primary contact) \| Mob: +380508736005 \| Email: [dmtr.schv@gmail.com](mailto:dmtr.schv@gmail.com) \| LinkedIn: [mad-pillow](http://www.linkedin.com/in/mad-pillow) \| GitHub: [mad-pillow](https://github.com/mad-pillow) \| Location: Odesa, Ukraine
 
 ## **Professional Summary**
 
@@ -29,7 +29,7 @@ Able to fast and easy learning of new things. Have extreme passion for studying 
 
    - `HTML`
    - `CSS`
-   - `SSAS / LESS`
+   - `SCSS`
    - `Pure JavaScript`
    - `React.js`
    - `Redux.js basics`
@@ -45,18 +45,19 @@ Able to fast and easy learning of new things. Have extreme passion for studying 
 
 ## **Coding experiene**
 
-1. Tic-Tac-Toe game. React App with React Router. HTML, React, React Router, SASS, WEBPACK. [Deploy](https://mad-pillow.github.io/tic-tac-toe/) / [Code](https://github.com/mad-pillow/tic-tac-toe/tree/development)
-2. Todo-list application. React App. React, HTML, CSS, WEBPACK. [Deploy](https://mad-pillow.github.io/todo-app/) / [Code](https://github.com/mad-pillow/todo-app/tree/development)
-3. JS-types-game. Game-test to assess your JS types awareness. Single page application. HTML, CSS, React, React Router. [Deploy](https://mad-pillow.github.io/JS-types-game/#/) / [Code](https://github.com/mad-pillow/JS-types-game)
-4. Timestamper. Under construction. Application for adding timestamps to photos. HTML, SASS, Pure JS. [Deploy](https://mad-pillow.github.io/timestamper/) / [Code](https://github.com/mad-pillow/timestamper)
-5. My Solar System application. Under construction. HTML, CSS, Pure JS. [Deploy](https://mad-pillow.github.io/my_solar_system/) / [Code](https://github.com/mad-pillow/my_solar_system)
-6. Portfolio Sample. Adaptive landing page. HTML, SASS, Pure JS, GULP. [Deploy](https://mad-pillow.github.io/online-portfolio-sample/) / [Code](https://github.com/mad-pillow/online-portfolio-sample)
-7. Some simple landing page. Pure JS, HTML, CSS, GULP. [Deploy](https://mad-pillow.github.io/vestibulum/) / [Code](https://github.com/mad-pillow/vestibulum)
-8. Super-simple adaptive landing page with carousel and swiper. HTML, Pure JS, SASS. No external libraries. [Deploy](https://mad-pillow.github.io/wildlife/) / [Code](https://github.com/mad-pillow/wildlife)
-9. Virtual Piano application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/virtual-piano)
-10. Photo Filter application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/photo-filter)
-11. Online Zoo. Multi-page application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/online-zoo)
-12. Match-Match game. Single-page application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/match-match-game/#)
+1. VIN-decoder. React App with React Router. HTML, React, React Context, React Router, SCSS, WEBPACK. [Deploy](https://mad-pillow.github.io/vin-decoder) / [Code](https://github.com/mad-pillow/vin-decoder)
+1. Tic-Tac-Toe game. React App with React Router. HTML, React, React Router, SCSS, WEBPACK. [Deploy](https://mad-pillow.github.io/tic-tac-toe/) / [Code](https://github.com/mad-pillow/tic-tac-toe/tree/development)
+1. Todo-list application. React App. React, HTML, CSS, WEBPACK. [Deploy](https://mad-pillow.github.io/todo-app/) / [Code](https://github.com/mad-pillow/todo-app/tree/development)
+1. JS-types-game. Game-test to assess your JS types awareness. Single page application. HTML, CSS, React, React Router. [Deploy](https://mad-pillow.github.io/JS-types-game/#/) / [Code](https://github.com/mad-pillow/JS-types-game)
+1. Timestamper. Under construction. Application for adding timestamps to photos. HTML, SCSS, Pure JS. [Deploy](https://mad-pillow.github.io/timestamper/) / [Code](https://github.com/mad-pillow/timestamper)
+1. My Solar System application. Under construction. HTML, CSS, Pure JS. [Deploy](https://mad-pillow.github.io/my_solar_system/) / [Code](https://github.com/mad-pillow/my_solar_system)
+1. Portfolio Sample. Adaptive landing page. HTML, SCSS, Pure JS, GULP. [Deploy](https://mad-pillow.github.io/online-portfolio-sample/) / [Code](https://github.com/mad-pillow/online-portfolio-sample)
+1. Some simple landing page. Pure JS, HTML, CSS, GULP. [Deploy](https://mad-pillow.github.io/vestibulum/) / [Code](https://github.com/mad-pillow/vestibulum)
+1. Super-simple adaptive landing page with carousel and swiper. HTML, Pure JS, SCSS. No external libraries. [Deploy](https://mad-pillow.github.io/wildlife/) / [Code](https://github.com/mad-pillow/wildlife)
+1. Virtual Piano application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/virtual-piano)
+1. Photo Filter application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/photo-filter)
+1. Online Zoo. Multi-page application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/online-zoo)
+1. Match-Match game. Single-page application. Pure JS. [Deploy](https://rolling-scopes-school.github.io/mad-pillow-JSFE2021Q1/match-match-game/#)
 
 ## **Education**
 
