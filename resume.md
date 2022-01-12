@@ -18,30 +18,30 @@ Able to fast and easy learning of new things. Have extreme passion for studying 
 
 1. Soft skills
 
-   - `Active learning`
-   - `Ability to work in a team environment`
-   - `Leadership`
-   - `Creative problem solving`
-   - `Expertise in troubleshooting`
-   - `Critical thinking`
+   - Active learning
+   - Ability to work in a team environment
+   - Leadership
+   - Creative problem solving
+   - Expertise in troubleshooting
+   - Critical thinking
 
 2. Tech skills
 
-   - `HTML`
-   - `CSS`
-   - `SCSS`
-   - `Pure JavaScript`
-   - `React.js`
-   - `Redux.js basics`
-   - `BEM methodology`
-   - `GIT`
-   - `Github`
+   - HTML
+   - CSS
+   - SCSS
+   - Pure JavaScript
+   - React.js
+   - Redux.js basics
+   - BEM methodology
+   - GIT
+   - Github
 
 3. as well as additional technical skills
-   - `AutoCAD, SOLIDWORKS confident user`
-   - `Expert in 3D modelling and 3D Printing`
-   - `Good mathematical skills`
-   - `Competent in developing technical manuals and other documentation`
+   - AutoCAD, SOLIDWORKS confident user
+   - Expert in 3D modelling and 3D Printing
+   - Good mathematical skills
+   - Competent in developing technical manuals and other documentation
 
 ## **Coding experiene**
 
@@ -74,6 +74,6 @@ I have not got any special programming education except short free online webina
 **B1 Upper Intermediate** level proved by **[IELTS](https://www.ielts.org/)** Report. Oral and written communication
 skills, along with superb reading comprehension. English practised wisely on the previous work places.
 
-## **Moto**
+## **My Moto**
 
 _Nothing is impossible._
